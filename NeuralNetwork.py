@@ -100,6 +100,6 @@ if __name__ == '__main__':
 # 1. If we increase the number of trials from 1000, the printed output gets closer to the actual output
 # 2. i) Change the output to 0, 1, 1, 1
 #   ii) Change the output to 1, 1, 1, 0
-# 3. Add custome machine state based on user's input
+# 3. Add custom machine state based on user's input
 
 
